@@ -16,11 +16,21 @@
 <p align="left"><u>next step&nbsp;</u></p>
 <p align="left">we need&nbsp;create&nbsp;clients bind the&nbsp;wifi&nbsp;adapters so evey&nbsp;client will have 1 wifi and he can do&nbsp;traffic (also can be contorl by ssh) for this job we using "virtualbox" with "VBoxManage" that can configure and running vm in the&nbsp;background we install&nbsp;ubuntu server and&nbsp;associate it to every&nbsp;wifi&nbsp;adapter</p>
 <p align="left">so now we have 30&nbsp;wifi&nbsp;adapters + 30 Vm&nbsp;&nbsp;</p>
-<p align="left">challenge done !!!</p>
+<p align="left">challenge done !!!&nbsp;</p>
+<p align="left">also&nbsp;many thanks for the help to my&nbsp;team number @<a href="https://github.com/Antonno">Anton</a></p>
+<p align="left">&nbsp;</p>
 <p align="left"><strong><span lang="en-US"><u>note :</u></span></strong></p>
-<p align="left">&nbsp;<span lang="en-US">we </span><span lang="en-US">write</span><span lang="en-US"> script </span><span lang="en-US">running</span><span lang="en-US"> the test in&nbsp;easy way</span></p>
-<p align="left">because we have many&nbsp;<span lang="en-US">wifi&nbsp;adapters we&nbsp;choose&nbsp;&nbsp;associate on&nbsp;random ( avoid interference)</span></p>
-<p align="left"><span lang="en-US">in the end the script tell you how much he try&nbsp;associate and in the end how much&nbsp;success</span></p>
+<ol>
+<li>&nbsp;<span lang="en-US">we </span><span lang="en-US">write</span><span lang="en-US"> script </span><span lang="en-US">running</span><span lang="en-US"> the test in&nbsp;easy way</span></li>
+<li>because we have many&nbsp;<span lang="en-US">wifi&nbsp;adapters we&nbsp;choose&nbsp;&nbsp;associate on&nbsp;random ( avoid interference)</span></li>
+<li><span lang="en-US">in the end the script tell you how much he try&nbsp;associate and in the end how much&nbsp;success<br /></span></li>
+</ol>
+<p><span style="text-decoration: underline;"><strong><span lang="en-US">screenshot</span></strong></span></p>
+<p><span lang="en-US">how much wifi&nbsp;adapters try to&nbsp;associate</span></p>
+<p><span lang="en-US"><img src="https://image.ibb.co/gHHvxJ/range.png" alt="" width="291" height="149" /></span></p>
+<p><span lang="en-US">summary</span></p>
+<p><span lang="en-US"><img src="https://image.ibb.co/nOwDHJ/info.png" alt="" width="165" height="164" /></span></p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p align="left">&nbsp;</p>
 <p align="left">&nbsp;</p>
