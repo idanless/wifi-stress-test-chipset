@@ -1,5 +1,5 @@
 <p align="center"><strong><u>wifi stress test chipset</u></strong></p>
-<p><span lang="en-US"><img src="https://github.com/idanless/wifi-stress-test-chipset/blob/master/IMG_20180716_095608.jpg" alt="" width="500" height="500" /></span></p>
+<p><span lang="en-US"><img src="https://github.com/idanless/wifi-stress-test-chipset/blob/master/IMG_20180716_095608.jpg" alt="" width="800" height="500" /></span></p>
 <p align="left">we got&nbsp;project from the company that we need to do performance test to check the&nbsp;limited of the chipset and the GW (memory , cpu ) but we have limited&nbsp;resources (<span lang="en-US">money :\ just for compre some solution cost 350,000 us dollar)&nbsp; so we come with plan how to do with less then 10k&nbsp;us dollar</span></p>
 <p align="left">so we buy pc (usb 3.0) + 30 wifi&nbsp;adapters + 4 hub usb with&nbsp;power supply and go see how much crazy we are.</p>
 <p align="left">&nbsp;</p>
