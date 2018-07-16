@@ -35,4 +35,6 @@
 <p align="left">&nbsp;</p>
 <p align="left">&nbsp;</p>
 <p align="left">&nbsp;</p>
+<p><span lang="en-US"><img src="https://github.com/idanless/wifi-stress-test-chipset/blob/master/IMG_20180716_095608.jpg" alt="" width="165" height="164" /></span></p>
+
 <p>&nbsp;</p>
